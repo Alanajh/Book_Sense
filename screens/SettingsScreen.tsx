@@ -23,7 +23,7 @@ export default function SettingsScreen({ navigation }: RootTabScreenProps<'TabOn
         setOpen(!open);
       };
     !open && { height: 40 }
-     // Testing git 
+     // Testing 
     return (
         <View style={styles.container}
         >
