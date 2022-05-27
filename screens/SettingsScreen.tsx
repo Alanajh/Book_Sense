@@ -22,6 +22,7 @@ export default function SettingsScreen({ navigation }: RootTabScreenProps<'TabOn
     const handleClick = () => {
         setOpen(!open);
       };
+      
     !open && { height: 40 }
      
     return (
